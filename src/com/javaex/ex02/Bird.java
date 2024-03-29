@@ -5,7 +5,7 @@ public abstract class Bird {
 
 //    public Bird() {}
 
-    public String getName() {
+    protected String getName() {
         return name;
     }
 
